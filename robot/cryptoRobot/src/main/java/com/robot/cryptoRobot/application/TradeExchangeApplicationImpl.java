@@ -1,9 +1,11 @@
 package com.robot.cryptoRobot.application;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
 
 import com.robot.cryptoRobot.domain.trade.TradeExchange;
 
+@Service
 public class TradeExchangeApplicationImpl implements TradeExchange {
 	
 	@Autowired
