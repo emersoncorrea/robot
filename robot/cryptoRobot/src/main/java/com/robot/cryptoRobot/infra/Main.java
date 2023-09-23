@@ -1,4 +1,4 @@
-package com.robot.cryptoRobot.service;
+package com.robot.cryptoRobot.infra;
 import java.security.InvalidKeyException;
 import java.security.NoSuchAlgorithmException;
 import java.util.Base64;

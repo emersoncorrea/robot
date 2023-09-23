@@ -1,4 +1,4 @@
-package com.robot.cryptoRobot;
+package com.robot.cryptoRobot.infra;
 
 import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;

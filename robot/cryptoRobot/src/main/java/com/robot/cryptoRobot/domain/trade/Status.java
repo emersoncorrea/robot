@@ -1,4 +1,4 @@
-package com.robot.cryptoRobot.dto;
+package com.robot.cryptoRobot.domain.trade;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 

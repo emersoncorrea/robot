@@ -1,4 +1,4 @@
-package com.robot.cryptoRobot;
+package com.robot.cryptoRobot.infra;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
